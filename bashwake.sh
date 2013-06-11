@@ -1,0 +1,1 @@
+espeak "go to sleep, bro." && sleep 8h && espeak "Wake up." && sleep 5m && espeak "Seriously, get out of bed." && sleep 5m && espeak "For crying out loud, you're consenting to miss breakfast by not getting out of bed." && "I mean, what's the point of programming me to wake you if you're just going to ignore me?"
